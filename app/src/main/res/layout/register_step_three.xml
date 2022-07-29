@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/btn_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="3dp"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/orangish"
+            android:text="kg_fat"/>
+        <Button
+            android:id="@+id/btn_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="3dp"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/green"
+            android:textColor="@color/black"
+            android:text="snf"/>
+        <Button
+            android:id="@+id/btn_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="3dp"
+            android:backgroundTint="@color/greenish"
+            android:layout_gravity="center"
+            android:text="clr"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lv_rate_settings"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+        <include
+            android:id="@+id/kg_fat"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            layout="@layout/kg_fat"/>
+        <include
+            android:id="@+id/snf"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            layout="@layout/snf"/>
+        <include
+            android:id="@+id/clr"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            layout="@layout/clr"/>
+
+    </LinearLayout>
+
+</LinearLayout>

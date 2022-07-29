@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controller.DashboardActivity"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:openDrawer="start"
+    android:id="@+id/dashboard_layout">
+
+    <include
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/appbar"
+        android:id="@+id/appbarInDashboard"/>
+
+
+    <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_view_outer"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="17dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="35dp"
+                app:cardElevation="3dp"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/white"
+                    android:text="Version : 3.5.6"
+                    android:textAlignment="center"
+                    android:id="@+id/textHome"/>
+            </androidx.cardview.widget.CardView>
+
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_horizontal">
+
+                <GridLayout
+                    android:id="@+id/gv_home_task"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:columnCount="2"
+                    android:useDefaultMargins="true"
+                    tools:ignore="UselessParent">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/yellowish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"/>
+
+                            <TextView
+                                android:id="@+id/tv_milk_collection"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/milk_collection"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cust_manage"
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/blueish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:layout_marginTop="5dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:layout_marginRight="5dp"
+                                android:src="@drawable/img_1"
+                                app:tint="@color/white" />
+
+                            <TextView
+                                android:id="@+id/tv_customer_manage"
+
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="55dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/customer_management"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/greenish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                               android:src="@drawable/img_2"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                />
+
+                            <TextView
+                                android:id="@+id/tv_sell_milk"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/sell_milk_amp_products"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/redish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginRight="5dp"
+                                android:src="@drawable/img_3"
+                                app:tint="@color/white" />
+
+                            <TextView
+                                android:id="@+id/tv_print"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="55dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/print_amp_message_settigs"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/pinkish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img_4"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginRight="5dp"/>
+
+                            <TextView
+                                android:id="@+id/tv_backup"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/backup"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/orangish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img_5"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                />
+
+                            <TextView
+                                android:id="@+id/tv_reports"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/all_reports"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/blueish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img_6"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginRight="5dp"/>
+
+                            <TextView
+                                android:id="@+id/rate_settings"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="83dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/rate_setting"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/yellowish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img_7"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginRight="5dp"
+                                />
+
+                            <TextView
+                                android:id="@+id/help_and_support"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/help_support"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/act_settings"
+                        android:layout_width="170dp"
+                        android:layout_height="190dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="9dp"
+                        android:layout_marginRight="9dp"
+                        android:backgroundTint="@color/greenish"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
+                                android:paddingStart="10dp"
+                                android:paddingTop="5dp"
+                                android:src="@drawable/img_8"
+                                app:tint="@color/white"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginRight="5dp"/>
+
+                            <TextView
+                                android:id="@+id/tv_account_settings"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="75dp"
+                                android:paddingStart="12dp"
+                                android:text="@string/account_settings"
+                                android:textAllCaps="false"
+                                android:textColor="@color/white"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                </GridLayout>
+
+            </ScrollView>
+        </LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

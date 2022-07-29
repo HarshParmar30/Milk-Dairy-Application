@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Milk Dairy</string>
+    <string name="next">Next</string>
+    <string name="step_1_3">Step </string>
+    <string name="milk_collection">Milk Collection</string>
+    <string name="customer_management">Customer Management</string>
+    <string name="sell_milk_amp_products"><![CDATA[Sell Milk & Products]]></string>
+    <string name="print_amp_message_settigs"><![CDATA[Print & Message Settings]]></string>
+    <string name="backup">Backup</string>
+    <string name="all_settings">All Settings</string>
+    <string name="rate_setting">Rate Setting</string>
+    <string name="other_settings">Other Settings</string>
+    <string name="all_reports">All reports</string>
+    <string name="help_support">Help and Support</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="et_mobile_number">Mobile Number</string>
+    <string name="et_password">Password</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_register">New Register</string>
+    <string name="tv_forgot_password">Forgot Password?</string>
+    <string name="tv_or">Or</string>
+    <string name="dairy_name">Dairy Name</string>
+    <string name="do_you_have_a_referal_code">Do you have a referal code?</string>
+    <string name="state">State</string>
+    <string name="taluka">Taluka</string>
+    <string name="district">District</string>
+    <string name="save">Save</string>
+    <string name="rate_charge">Rate Charge :</string>
+    <string name="kgfat">Kg/Fat</string>
+    <string name="Enter_Rate">Enter your rate</string>
+    <string name="snf">SNF</string>
+    <string name="clr">CLR</string>
+
+
+</resources>

@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_kg_fat.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\kg_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_md_logo.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\md_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_register_step_two.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_contact.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_main_splash.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\main_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_clr.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\clr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_customer_appbar.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\customer_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_snf.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\snf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_add.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_next.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_customer_management.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_customer_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_secure.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\secure.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_info_alert.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\info_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_lion.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\lion.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_customer_details.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\anim_bottom_to_top.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\anim\\bottom_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_elipses.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\elipses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_register_step_one.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-pngs-22:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_account_settings.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_register_step_three.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_info_icon.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\info_icon.xml"
+    },
+    {
+        "merged": "com.rk.milkdairy.app-merged_res-27:/layout_register_step_one.xml.flat",
+        "source": "com.rk.milkdairy.app-main-29:/layout/register_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_appbar.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable-v24_img_2.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-merged_res-27:\\drawable_sync.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\drawable\\sync.png"
+    }
+]

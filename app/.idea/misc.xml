@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/drawable/info_icon.xml" value="0.172" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/activity_customer_management.xml" value="0.240625" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/activity_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/clr.xml" value="0.2734375" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/customer_appbar.xml" value="0.240625" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/customer_details.xml" value="0.240625" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/kg_fat.xml" value="0.2734375" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/register_step_one.xml" value="0.4921875" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/register_step_three.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/register_step_two.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/layout/snf.xml" value="0.2734375" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.172" />
+        <entry key="..\:/Project/MilkDairy/AndroidApp/V1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.172" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

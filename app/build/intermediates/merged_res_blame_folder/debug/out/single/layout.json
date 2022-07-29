@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\customer_details.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_customer_management.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_customer_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\register_step_one.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\customer_appbar.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\customer_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\appbar.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\info_alert.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\info_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\kg_fat.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\kg_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\snf.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\snf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\register_step_three.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\clr.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\clr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_account_settings.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "com.rk.milkdairy.app-mergeDebugResources-26:/layout/register_step_one.xml",
+        "source": "com.rk.milkdairy.app-main-29:/layout/register_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-mergeDebugResources-26:\\layout\\register_step_two.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\7.3.3\\com.rk.milkdairy.app-main-29:\\layout\\register_step_two.xml"
+    }
+]

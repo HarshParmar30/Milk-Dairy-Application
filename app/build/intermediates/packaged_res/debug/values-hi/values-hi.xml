@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Enter_Rate">रेट एंटर करिए </string>
+    <string name="account_settings">अकाउंट सेटिंग्स</string>
+    <string name="all_reports">रिपोर्ट्स</string>
+    <string name="all_settings">आोल सेटिंग्स</string>
+    <string name="app_name">मिल्क डेरी</string>
+    <string name="backup">बैकअप</string>
+    <string name="clr">CLR</string>
+    <string name="customer_management">ग्राहक प्रबंधन</string>
+    <string name="dairy_name">डेरी का नाम</string>
+    <string name="district">जिल्ला</string>
+    <string name="do_you_have_a_referal_code">आपके पास कोई रेफरल कॉड है?</string>
+    <string name="et_mobile_number">मोबाइल नंबर</string>
+    <string name="et_password">पासवर्ड</string>
+    <string name="help_support">सहायता और समर्थन</string>
+    <string name="kgfat">किग्रा/फेट </string>
+    <string name="milk_collection">दूध संग्रह</string>
+    <string name="next">आगे</string>
+    <string name="other_settings">अन्य सेटिंग्स</string>
+    <string name="print_amp_message_settigs">प्रिंट एंड मैसेज सेटिंग्स</string>
+    <string name="rate_charge">रेट चार्ज  :</string>
+    <string name="rate_setting">रेट सेटिंग</string>
+    <string name="save">सेव करिए </string>
+    <string name="sell_milk_amp_products">दूध और उत्पादों की बिक्री</string>
+    <string name="snf">SNF</string>
+    <string name="state">राज्य </string>
+    <string name="step_1_3">स्टेप 1/3</string>
+    <string name="taluka">तालुका</string>
+    <string name="tv_forgot_password">पासवर्ड भूल गए ?</string>
+    <string name="tv_login">लॉगिन</string>
+    <string name="tv_or">अथवा</string>
+    <string name="tv_register">न्यू रजिस्टर</string>
+</resources>

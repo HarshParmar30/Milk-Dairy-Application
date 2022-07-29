@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lv_ets"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignEnd="@+id/center_log"
+    android:layout_marginTop="250dp"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_reg_mobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+        android:hint="@string/et_mobile_number"
+        android:minHeight="48dp"
+        android:outlineProvider="none"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/et_reg_dairy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+        android:hint="@string/dairy_name"
+        android:minHeight="48dp"
+        android:outlineProvider="none"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/et_reg_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+        android:hint="@string/et_password"
+        android:minHeight="48dp"
+        android:outlineProvider="none"
+        android:textColorHint="@color/black" />
+
+
+    <RadioGroup
+        android:id="@+id/rg_referal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <CheckBox
+            android:id="@+id/cb_referal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="@string/do_you_have_a_referal_code"
+            android:textSize="14sp" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/et_reg_referalcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center_vertical"
+        android:hint="Enter Referral Code"
+        android:minHeight="48dp"
+        android:outlineProvider="none"
+        android:textColorHint="@color/black" />
+</LinearLayout>
